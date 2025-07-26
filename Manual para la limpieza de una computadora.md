@@ -62,27 +62,28 @@ Verifica que arranque sin errores y que el ventilador suene normal.
 
 ---
 
-## 🛠️ 4. Problemas que surgieron durante la práctica
+### 🛠️ 4. Problemas que pueden surgir durante el mantenimiento
 
 ### ❓ ¿Dónde empezar?
-> ✍️ _Escribe tu respuesta aquí_
+> Lo primero que se debe hacer es apagar la laptop y desconectarla de la corriente. Si tiene batería extraíble, también debe retirarse. Luego, preparar una superficie limpia, seca y sin estática para trabajar con seguridad.
 
 ---
 
 ### ❓ ¿Para qué sirve el aire comprimido?
-> ✍️ _Escribe tu respuesta aquí_
+> El aire comprimido se utiliza para eliminar el polvo acumulado en zonas difíciles de alcanzar, como ventiladores, teclados y puertos. Ayuda a mantener el buen funcionamiento del sistema de ventilación y previene el sobrecalentamiento.
 
 ---
 
 ### ❓ ¿Dónde dejo las piezas que le quito a mi laptop?
-> ✍️ _Escribe tu respuesta aquí_
+> Las piezas deben colocarse en un recipiente limpio o sobre una superficie antideslizante, idealmente etiquetadas o organizadas para recordar su lugar original. Es importante mantener tornillos y partes pequeñas en orden para evitar pérdidas.
 
 ---
 
 ### ❓ ¿Qué pasa si le aplico mucho aire comprimido y queda hielo o líquido saliendo?
-> ✍️ _Escribe tu respuesta aquí_
+> Si se aplica aire comprimido de forma continua y cercana, puede generar hielo o condensación debido a la expansión del gas. Esto puede dañar componentes electrónicos, por lo que se debe usar en ráfagas cortas y a una distancia prudente.
 
 ---
+
 
 ## 🔗 5. Enlace al taller
 
@@ -90,7 +91,7 @@ Verifica que arranque sin errores y que el ventilador suene normal.
 
 ---
 
-> 📄 _Este manual forma parte del curso de informática básica. Completa cada sección y reemplaza las imágenes y textos con tus propios datos._
+> 📄 _Este manual forma parte del curso de Prácticas Iniciales._
 
 
 

@@ -7,72 +7,72 @@
 
 ---
 
-### 📌 Imagen 2: _Título de la imagen_
-![Imagen 2](ruta/a/imagen2.jpg)
+### 📌 Imagen 2: 
+![Imagen 2](Imagenes/Promp2.png)
 
 ---
 
-### 📌 Imagen 3: _Título de la imagen_
-![Imagen 3](ruta/a/imagen3.jpg)
+### 📌 Imagen 3: 
+![Imagen 3](Imagenes/Promp3.png)
 
 ---
 
-### 📌 Imagen 4: _Título de la imagen_
-![Imagen 4](ruta/a/imagen4.jpg)
+### 📌 Imagen 4: 
+![Imagen 4](Imagenes/Promp4.png)
 
 ---
 
-### 📌 Imagen 5: _Título de la imagen_
-![Imagen 5](ruta/a/imagen5.jpg)
+### 📌 Imagen 5: 
+![Imagen 5](Imagenes/Promp5.png)
 
 ---
 
-### 📌 Imagen 6: _Título de la imagen_
-![Imagen 6](ruta/a/imagen6.jpg)
+### 📌 Imagen 6: 
+![Imagen 6](Imagenes/Promp6.png)
 
 ---
 
-### 📌 Imagen 7: _Título de la imagen_
-![Imagen 7](ruta/a/imagen7.jpg)
+### 📌 Imagen 7: 
+![Imagen 7](Imagenes/Promp7.png)
 
 ---
 
-### 📌 Imagen 8: _Título de la imagen_
-![Imagen 8](ruta/a/imagen8.jpg)
+### 📌 Imagen 8: 
+![Imagen 8](Imagenes/Promp8.png)
 
 ---
 
-### 📌 Imagen 9: _Título de la imagen_
-![Imagen 9](ruta/a/imagen9.jpg)
+### 📌 Imagen 9: 
+![Imagen 9](Imagenes/Promp9.png)
 
 ---
 
-### 📌 Imagen 10: _Título de la imagen_
-![Imagen 10](ruta/a/imagen10.jpg)
+### 📌 Imagen 10: 
+![Imagen 10](Imagenes/Promp10.png)
 
 ---
 
-### 📌 Imagen 11: _Título de la imagen_
-![Imagen 11](ruta/a/imagen11.jpg)
+### 📌 Imagen 11:
+![Imagen 11](Imagenes/Promp11.png)
 
 ---
 
-### 📌 Imagen 12: _Título de la imagen_
-![Imagen 12](ruta/a/imagen12.jpg)
+### 📌 Imagen 12: 
+![Imagen 12](Imagenes/Promp12.png)
 
 ---
 
-### 📌 Imagen 13: _Título de la imagen_
-![Imagen 13](ruta/a/imagen13.jpg)
+### 📌 Imagen 13: 
+![Imagen 13](Imagenes/Promp13.png)
 
 ---
 
-### 📌 Imagen 14: _Título de la imagen_
-![Imagen 14](ruta/a/imagen14.jpg)
+### 📌 Imagen 14: 
+![Imagen 14](Imagenes/Promp14.png)
 
 ---
 
-### 📌 Imagen 15: _Título de la imagen_
-![Imagen 15](ruta/a/imagen15.jpg)
+### 📌 Imagen 15: 
+![Imagen 15](Imagenes/Promp15.png)
 
 ---

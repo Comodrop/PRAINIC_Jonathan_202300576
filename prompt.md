@@ -2,8 +2,8 @@
 
 
 
-### 📌 Imagen 1: _Título de la imagen_
-![Imagen 1](ruta/a/imagen1.jpg)
+### 📌 Imagen 1:
+![Imagen 1](Imagenes/promp1.jpg)
 
 ---
 

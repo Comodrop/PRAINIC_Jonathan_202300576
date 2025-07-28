@@ -8,7 +8,7 @@
 ---
 
 ### 📌 Imagen 2: 
-![Imagen 2](Imagenes/Promp2.png)
+![Imagen 2](Imagenes/image.png)
 
 ---
 

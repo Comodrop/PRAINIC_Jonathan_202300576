@@ -3,7 +3,7 @@
 
 
 ### 📌 Imagen 1:
-![Imagen 1](Imagenes/promp1.jpg)
+![Imagen 1](Imagenes/Promp1.png)
 
 ---
 

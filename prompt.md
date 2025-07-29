@@ -52,27 +52,4 @@
 
 ---
 
-### 📌 Imagen 11:
-![Imagen 11](Imagenes/Promp11.png)
 
----
-
-### 📌 Imagen 12: 
-![Imagen 12](Imagenes/Promp12.png)
-
----
-
-### 📌 Imagen 13: 
-![Imagen 13](Imagenes/Promp13.png)
-
----
-
-### 📌 Imagen 14: 
-![Imagen 14](Imagenes/Promp14.png)
-
----
-
-### 📌 Imagen 15: 
-![Imagen 15](Imagenes/Promp15.png)
-
----

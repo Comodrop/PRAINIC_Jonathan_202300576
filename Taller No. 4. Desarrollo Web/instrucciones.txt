@@ -1,0 +1,16 @@
+Para trabajar en el backend instalamos en la carpeta Backend esto:
+
+npm init -y                                     para obtener el package.json
+npm i                                           para instalar las dependencias 
+npm install express                             para trabajar con express
+npm install mysql2                              para conectarnos a la base de datos
+npm install dotenv                              para las variables de entorno
+npm install bcrypt                              para encriptar la contraseña de los usuarios
+npm install --save-dev nodemon                  para levantar el servidor y no tener que estar recargando el servidor
+
+---------- PARA EJECUTAR NODEMON LO PODEMOS HACER:  nodemon index.js
+Podemos modificar el package.json con estos dos scripts en la parte que dice scripts:
+"scripts": {
+    "start": "node index.js",
+    "dev": "nodemo index.js"
+}

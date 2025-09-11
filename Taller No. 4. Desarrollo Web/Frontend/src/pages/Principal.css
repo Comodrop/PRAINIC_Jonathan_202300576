@@ -1,0 +1,134 @@
+.principal-container {
+  padding: 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.titulo-principal {
+  text-align: center;
+  font-size: 2rem;
+  color: #004080;
+  margin-bottom: 20px;
+}
+
+.filtros {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 25px;
+  justify-content: center;
+}
+
+.filtros input {
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #bbb;
+  border-radius: 6px;
+}
+
+.filtros button {
+  padding: 8px 15px;
+  background-color: #004080;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.filtros button:hover {
+  background-color: #003060;
+}
+
+.lista-publicaciones {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.publicacion-card {
+  padding: 20px;
+  border: 1px solid #d6d126;
+  border-radius: 10px;
+  background: #78d354;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.pub-usuario {
+  font-weight: bold;
+  color: #003060;
+}
+
+.pub-mensaje {
+  margin: 10px 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.fecha {
+  font-size: 0.85rem;
+  color: gray;
+  text-align: right;
+}
+
+/* 🔹 Comentarios */
+.comentarios-container {
+  margin-top: 15px;
+  padding: 12px;
+  background: #8f98a8;
+  border-left: 4px solid #004080;
+  border-radius: 6px;
+}
+
+.comentarios-container h4 {
+  margin: 0 0 10px 0;
+  color: #004080;
+}
+
+.comentario {
+  padding: 8px;
+  margin-bottom: 8px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.comentario-texto {
+  margin: 0;
+  color: #333;
+}
+
+.comentario-fecha {
+  font-size: 0.75rem;
+  color: #666;
+  text-align: right;
+}
+
+/* 🔹 Buscador de Registro Personal */
+.buscador-registro {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.buscador-registro input {
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #bbb;
+  border-radius: 6px;
+  width: 250px;
+}
+
+.buscador-registro button {
+  padding: 8px 15px;
+  background-color: #004080;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.buscador-registro button:hover {
+  background-color: #003060;
+}

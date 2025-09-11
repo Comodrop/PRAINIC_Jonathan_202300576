@@ -1,0 +1,32 @@
+.header {
+  width: 100vw;
+  height: 50px;
+  background-color: #004080;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  z-index: 1000;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links a,
+.logout-button {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+
+.nav-links a:hover,
+.logout-button:hover {
+  text-decoration: underline;
+}
